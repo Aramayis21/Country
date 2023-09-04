@@ -1,0 +1,15 @@
+.menu{
+    display: flex;
+    gap: 50px;
+    padding-bottom: 150px;
+    padding-top: 40px;
+    justify-content: center;
+}
+.reg {
+    background-color: blue;
+    color: white;
+    padding:  5px 30px;
+    border:  solid 1px blue;
+    border-radius: 5px;
+    cursor: pointer;
+}

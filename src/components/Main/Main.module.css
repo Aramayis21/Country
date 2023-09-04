@@ -1,0 +1,22 @@
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    justify-content: center;
+    text-align: center;
+}
+
+.card{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: solid 1px ;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.card img{
+    width: 60%;
+}
